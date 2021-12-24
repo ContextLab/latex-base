@@ -24,7 +24,7 @@ sh setup.sh
 
 # *Paper title*
 
-This repository contains data and code used to produce the paper ["_Paper title_"](link to preprint) by Authors. The repository is organized as follows:
+This repository contains data and code used to produce the paper ["_Paper title_"](link.to.preprint) by Authors. The repository is organized as follows:
 
 ```
 root
