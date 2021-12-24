@@ -36,7 +36,7 @@ root
 └── paper: all files needed to generate a PDF of the paper
     └── figs : pdf copies of each figure
         └── source: source files used to construct individual figure panels or components
-    ├── CDL-bibliography: bibliography management [submodule](https://github.com/ContextLab/CDL-bibliography)
+    ├── CDL-bibliography: bibliography management based on https://github.com/ContextLab/CDL-bibliography
     └── admin: files and documents related to administrative tasks (e.g., cover letters, forms, etc.)    
 ```
 
