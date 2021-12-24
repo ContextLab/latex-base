@@ -37,7 +37,7 @@ root
     └── figs : pdf copies of each figure
         └── source: source files used to construct individual figure panels or components
     ├── CDL-bibliography: bibliography management [submodule](https://github.com/ContextLab/CDL-bibliography)
-    ├── admin: files and documents related to administrative tasks (e.g., cover letters, forms, etc.)    
+    └── admin: files and documents related to administrative tasks (e.g., cover letters, forms, etc.)    
 ```
 
 We also include a Dockerfile to reproduce our computational environment. Instruction for use are below (copied and modified from [this project](https://github.com/ContextLab/sherlock-topic-model-paper)):
